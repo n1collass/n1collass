@@ -1,4 +1,14 @@
-## 👋 Oii! Meu nome é Nicolas e sou desenvolvedor web, seja bem-vindo ao meu perfil
+## 👋 Opa! Me chamo Nicolas!
+
+Alguns fatos sobre mim:
+
+- ⚡ Cursando Eletrotécnica
+- 🔭 Trabalhando em diversos projetos
+- 💡 Amo inovar e aprender coisas novas
+- 🎵 Curto demais música e sou DJ
+- 💗 Minha paixão por elétrica, informática e música vem desde pequeno
+- 💻 Domino mais a programação web (PHP, Laravel, HTML, etc.)
+- 🌱 Estou aprendendo Python no momento
 
 <!--
 **n1collass/n1collass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
